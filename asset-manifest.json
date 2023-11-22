@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f384fe29.css",
+    "main.js": "/static/js/main.aa87ea11.js",
+    "static/js/498.f01f7e97.chunk.js": "/static/js/498.f01f7e97.chunk.js",
+    "static/js/703.211fd9c8.chunk.js": "/static/js/703.211fd9c8.chunk.js",
+    "static/js/198.5ae4bfa4.chunk.js": "/static/js/198.5ae4bfa4.chunk.js",
+    "static/js/787.863222d5.chunk.js": "/static/js/787.863222d5.chunk.js",
+    "static/media/Ian_Esteves_foto.jpeg": "/static/media/Ian_Esteves_foto.8b13fadf1698d61fa54d.jpeg",
+    "static/media/Phillipe_Secondo_foto.jpeg": "/static/media/Phillipe_Secondo_foto.fa8bdd4456f0b6954af1.jpeg",
+    "static/media/Joao_Victor_foto.jpeg": "/static/media/Joao_Victor_foto.6f8f2eb6e2f020ec6003.jpeg",
+    "static/media/Brenda_foto.jpeg": "/static/media/Brenda_foto.3df63b8ad92a884a568a.jpeg",
+    "index.html": "/index.html",
+    "main.f384fe29.css.map": "/static/css/main.f384fe29.css.map",
+    "main.aa87ea11.js.map": "/static/js/main.aa87ea11.js.map",
+    "498.f01f7e97.chunk.js.map": "/static/js/498.f01f7e97.chunk.js.map",
+    "703.211fd9c8.chunk.js.map": "/static/js/703.211fd9c8.chunk.js.map",
+    "198.5ae4bfa4.chunk.js.map": "/static/js/198.5ae4bfa4.chunk.js.map",
+    "787.863222d5.chunk.js.map": "/static/js/787.863222d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f384fe29.css",
+    "static/js/main.aa87ea11.js"
+  ]
+}
